@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),v510)
+ifeq ($(TARGET_DEVICE),palman)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libtime_genoff
