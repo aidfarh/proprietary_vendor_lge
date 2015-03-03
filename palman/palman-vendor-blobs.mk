@@ -142,6 +142,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
     vendor/lge/palman/proprietary/vendor/firmware/bcm2079x_firmware.ncd:system/vendor/firmware/bcm2079x_firmware.ncd \
     vendor/lge/palman/proprietary/vendor/firmware/bcm2079x_pre_firmware.ncd:system/vendor/firmware/bcm2079x_pre_firmware.ncd \
+    vendor/lge/palman/proprietary/vendor/firmware/discretix/dxhdcp2.b00:system/vendor/firmware/discretix/dxhdcp2.b00 \
+    vendor/lge/palman/proprietary/vendor/firmware/discretix/dxhdcp2.b01:system/vendor/firmware/discretix/dxhdcp2.b01 \
+    vendor/lge/palman/proprietary/vendor/firmware/discretix/dxhdcp2.b02:system/vendor/firmware/discretix/dxhdcp2.b02 \
+    vendor/lge/palman/proprietary/vendor/firmware/discretix/dxhdcp2.b03:system/vendor/firmware/discretix/dxhdcp2.b03 \
+    vendor/lge/palman/proprietary/vendor/firmware/discretix/dxhdcp2.mdt:system/vendor/firmware/discretix/dxhdcp2.mdt \
     vendor/lge/palman/proprietary/vendor/firmware/dsps.b00:system/vendor/firmware/dsps.b00 \
     vendor/lge/palman/proprietary/vendor/firmware/dsps.b01:system/vendor/firmware/dsps.b01 \
     vendor/lge/palman/proprietary/vendor/firmware/dsps.b02:system/vendor/firmware/dsps.b02 \
@@ -162,6 +167,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/vendor/firmware/gss.b10:system/vendor/firmware/gss.b10 \
     vendor/lge/palman/proprietary/vendor/firmware/gss.b11:system/vendor/firmware/gss.b11 \
     vendor/lge/palman/proprietary/vendor/firmware/gss.mdt:system/vendor/firmware/gss.mdt \
+    vendor/lge/palman/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/lge/palman/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/lge/palman/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/lge/palman/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/lge/palman/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/lge/palman/proprietary/vendor/firmware/q6.b00:system/vendor/firmware/q6.b00 \
     vendor/lge/palman/proprietary/vendor/firmware/q6.b01:system/vendor/firmware/q6.b01 \
     vendor/lge/palman/proprietary/vendor/firmware/q6.b03:system/vendor/firmware/q6.b03 \
@@ -176,6 +186,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/vendor/firmware/wcnss.b05:system/vendor/firmware/wcnss.b05 \
     vendor/lge/palman/proprietary/vendor/firmware/wcnss.b06:system/vendor/firmware/wcnss.b06 \
     vendor/lge/palman/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt \
+    vendor/lge/palman/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/lge/palman/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/lge/palman/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/lge/palman/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
