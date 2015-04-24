@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/palman/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/lge/palman/proprietary/bin/efsks:system/bin/efsks \
-    vendor/lge/palman/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/lge/palman/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/palman/proprietary/bin/ks:system/bin/ks \
     vendor/lge/palman/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
@@ -28,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/palman/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/lge/palman/proprietary/bin/qcks:system/bin/qcks \
-    vendor/lge/palman/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/lge/palman/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/palman/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/lge/palman/proprietary/bin/radish:system/bin/radish \
@@ -53,7 +51,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/palman/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/lge/palman/proprietary/lib/libAKM.so:system/lib/libAKM.so \
-    vendor/lge/palman/proprietary/lib/libalsautils.so:system/lib/libalsautils.so \
     vendor/lge/palman/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/lge/palman/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/lge/palman/proprietary/lib/libchromatix_imx111_default_video.so:system/lib/libchromatix_imx111_default_video.so \
@@ -96,7 +93,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/lge/palman/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/lge/palman/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
-    vendor/lge/palman/proprietary/lib/liblgftmitem.so:system/lib/liblgftmitem.so \
     vendor/lge/palman/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
     vendor/lge/palman/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/palman/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
@@ -115,7 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/palman/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/lge/palman/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
-    vendor/lge/palman/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/lge/palman/proprietary/lib/libqcci_legacy.so:system/lib/libqcci_legacy.so \
     vendor/lge/palman/proprietary/lib/libqdi.so:system/lib/libqdi.so \
     vendor/lge/palman/proprietary/lib/libqdp.so:system/lib/libqdp.so \
@@ -135,9 +130,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/palman/proprietary/lib/libsensor_user_cal.so:system/lib/libsensor_user_cal.so \
     vendor/lge/palman/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/lge/palman/proprietary/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
-    vendor/lge/palman/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
     vendor/lge/palman/proprietary/lib/libxml.so:system/lib/libxml.so \
-    vendor/lge/palman/proprietary/lib/libxt_v02.so:system/lib/libxt_v02.so \
     vendor/lge/palman/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lge/palman/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
     vendor/lge/palman/proprietary/vendor/firmware/bcm2079x_firmware.ncd:system/vendor/firmware/bcm2079x_firmware.ncd \
